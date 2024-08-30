@@ -324,6 +324,7 @@ pip-selfcheck.json
 **/venv
 **/env
 ../.idea
-
+**/venv
+./venv
 
 
