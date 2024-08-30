@@ -327,4 +327,4 @@ pip-selfcheck.json
 **/venv
 ./venv
 flagged/.
-
+./flagged
